@@ -50,7 +50,7 @@
 
 	</build>
 	<properties>
-		<spring.version>4.3.5.RELEASE</spring.version>
+		<spring.version>5.0.7.RELEASE</spring.version>
 		<jdk.version>1.7</jdk.version>
 	</properties>
 </project>
